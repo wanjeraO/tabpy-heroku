@@ -1,1 +1,1 @@
-web: tabpy
+web: python app.py
